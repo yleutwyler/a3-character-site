@@ -1,0 +1,40 @@
+#container {
+  background-color: cyan;
+  width: 960px;
+  margin-top: 40px;
+  margin-left: auto;
+  margin-right: auto;
+  padding: 20px;
+}
+
+#container img {
+  width: 960px;
+  margin-bottom: 40px;
+}
+
+h1 {
+  font-size: 36px;
+  margin-bottom: 20px;
+  text-align: center;
+}
+
+p {
+  font-size: 20px;
+  margin-bottom: 20px;
+}
+
+#container a {
+  color: green;
+  background-color: yellow;
+}
+
+#container a:hover {
+  background-color: red;
+}
+
+
+
+
+
+
+
